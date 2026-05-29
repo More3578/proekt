@@ -1,0 +1,178 @@
+# depslib dependency file v1.0
+1777065187 source:c:\users\Пользователь\desktop\myprogs\pzd\main.c
+	<stdio.h>
+	"include/lab1.h"
+	"include/lab2.h"
+	"include/lab3.h"
+	"include/lab4.h"
+	"include/lab5.h"
+
+1777064388 c:\users\Пользователь\desktop\myprogs\pzd\include\lab1.h
+
+1777064385 c:\users\Пользователь\desktop\myprogs\pzd\include\lab2.h
+
+1777064382 c:\users\Пользователь\desktop\myprogs\pzd\include\lab3.h
+
+1777064378 c:\users\Пользователь\desktop\myprogs\pzd\include\lab4.h
+
+1777064374 c:\users\Пользователь\desktop\myprogs\pzd\include\lab5.h
+
+1777064284 source:c:\users\Пользователь\desktop\myprogs\pzd\scr\additional.c
+	"../include/additional.h"
+
+1777064368 c:\users\Пользователь\desktop\myprogs\pzd\include\additional.h
+
+1777064240 source:c:\users\Пользователь\desktop\myprogs\pzd\scr\lab1.c
+	<stdio.h>
+	"../include/lab1.h"
+	"../include/additional.h"
+
+1777064244 source:c:\users\Пользователь\desktop\myprogs\pzd\scr\lab2.c
+	<stdio.h>
+	"../include/lab2.h"
+
+1777064250 source:c:\users\Пользователь\desktop\myprogs\pzd\scr\lab3.c
+	<stdio.h>
+	"../include/lab3.h"
+
+1777064255 source:c:\users\Пользователь\desktop\myprogs\pzd\scr\lab4.c
+	<stdio.h>
+	"../include/lab4.h"
+
+1777064264 source:c:\users\Пользователь\desktop\myprogs\pzd\scr\lab5.c
+	<stdio.h>
+	"../include/lab5.h"
+
+1779474657 source:c:\users\Пользователь\desktop\myprogs\prkt\main.c
+	<stdio.h>
+	"include/lab1.h"
+	"include/lab2.h"
+	"include/lab3.h"
+	"include/lab4.h"
+	"include/lab5.h"
+	"include/lab6.h"
+
+1777064388 c:\users\Пользователь\desktop\myprogs\prkt\include\lab1.h
+
+1777064385 c:\users\Пользователь\desktop\myprogs\prkt\include\lab2.h
+
+1777064382 c:\users\Пользователь\desktop\myprogs\prkt\include\lab3.h
+
+1777064378 c:\users\Пользователь\desktop\myprogs\prkt\include\lab4.h
+
+1777064374 c:\users\Пользователь\desktop\myprogs\prkt\include\lab5.h
+
+1777064284 source:c:\users\Пользователь\desktop\myprogs\prkt\scr\additional.c
+	"../include/additional.h"
+
+1777064368 c:\users\Пользователь\desktop\myprogs\prkt\include\additional.h
+
+1777064240 source:c:\users\Пользователь\desktop\myprogs\prkt\scr\lab1.c
+	<stdio.h>
+	"../include/lab1.h"
+	"../include/additional.h"
+
+1777107365 source:c:\users\Пользователь\desktop\myprogs\prkt\scr\lab2.c
+	<stdio.h>
+	"../include/lab2.h"
+
+1777107346 source:c:\users\Пользователь\desktop\myprogs\prkt\scr\lab3.c
+	<stdio.h>
+	"../include/lab3.h"
+
+1777107365 source:c:\users\Пользователь\desktop\myprogs\prkt\scr\lab4.c
+	<stdio.h>
+	"../include/lab4.h"
+
+1779473257 source:c:\users\Пользователь\desktop\myprogs\prkt\scr\lab5.c
+	<stdio.h>
+	"../include/lab5.h"
+
+1779474412 c:\users\Пользователь\desktop\myprogs\prkt\include\lab6.h
+
+1779894116 source:c:\prkt1 (1)\prkt\main.c
+	<stdio.h>
+	"include/lab1.h"
+	"include/lab2.h"
+	"include/lab3.h"
+	"include/lab4.h"
+	"include/lab5.h"
+	"include/lab6.h"
+
+1779894216 c:\prkt1 (1)\prkt\include\lab1.h
+
+1779894254 c:\prkt1 (1)\prkt\include\lab2.h
+
+1779894308 c:\prkt1 (1)\prkt\include\lab3.h
+
+1779894339 c:\prkt1 (1)\prkt\include\lab4.h
+
+1779894359 c:\prkt1 (1)\prkt\include\lab5.h
+
+1779894387 c:\prkt1 (1)\prkt\include\lab6.h
+
+1779916586 source:c:\prkt1 (1)\prkt\scr\lab1.c
+	<stdio.h>
+	"../include/lab1.h"
+
+1779895242 source:c:\prkt1 (1)\prkt\scr\lab2.c
+	<stdio.h>
+	"../include/lab2.h"
+
+1779895534 source:c:\prkt1 (1)\prkt\scr\lab3.c
+	<stdio.h>
+	"../include/lab3.h"
+
+1779896340 source:c:\prkt1 (1)\prkt\scr\lab5.c
+	<stdio.h>
+	"../include/lab5.h"
+
+1779916554 source:c:\prkt1 (1)\prkt\scr\lab4.c
+	<stdio.h>
+	"../include/lab4.h"
+
+1780077494 source:c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\main.c
+	<stdio.h>
+	"include/lab1.h"
+	"include/lab2.h"
+	"include/lab3.h"
+	"include/lab4.h"
+	"include/lab5.h"
+	"include/lab6.h"
+
+1780077266 c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\include\lab1.h
+
+1780077282 c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\include\lab2.h
+
+1780077301 c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\include\lab3.h
+
+1780077314 c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\include\lab4.h
+
+1780077361 c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\include\lab5.h
+
+1780077379 c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\include\lab6.h
+
+1780076801 source:c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\scr\lab1.c
+	<stdio.h>
+	"../include/lab1.h"
+
+1780076868 source:c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\scr\lab2.c
+	<stdio.h>
+	"../include/lab2.h"
+
+1780076926 source:c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\scr\lab3.c
+	<stdio.h>
+	"../include/lab3.h"
+
+1780077119 source:c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\scr\lab4.c
+	<stdio.h>
+	"../include/lab4.h"
+
+1780077184 source:c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\scr\lab5.c
+	<stdio.h>
+	"../include/lab5.h"
+
+1780077237 source:c:\users\sabit\onedrive\desktop\данилгуап\prkt1 (1)\prkt\scr\lab6.c
+	<stdio.h>
+	"../include/lab6.h"
+
